@@ -1,4 +1,4 @@
-Me lazy
+"If it can wait until tomorrow, there’s no need to force it today."
 
 <!--
 **Irilith/Irilith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
