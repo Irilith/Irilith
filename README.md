@@ -1,15 +1,6 @@
 <!-- Header -->
 <div align="center">
 
-```
-██╗██████╗ ██╗███████╗
-██║██╔══██╗██║██╔════╝
-██║██████╔╝██║███████╗
-██║██╔══██╗██║╚════██║
-██║██║  ██║██║███████║
-╚═╝╚═╝  ╚═╝╚═╝╚══════╝
-```
-
 *"The Snow Goose need not bathe to make itself white. Neither need you do anything but be yourself."*
 
 [![PGP Key](https://img.shields.io/badge/PGP-0x17238B49FDBFDB14-8b5cf6?style=flat-square&logo=gnuprivacyguard&logoColor=white)](https://github.com/Irilith.gpg)
