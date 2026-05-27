@@ -21,7 +21,7 @@ not a professional. not trying to be.
 
 -  learning digital design, 3d modeling, art things *(trying)*
 -  manga, light novels, anime - yuri and fantasy first, everything else maybe
-- (lazy) maintainer of [Kopuz](https://github.com/Kopuz-org/kopuz) - an open-source music player
+- check out [Kopuz](https://github.com/Kopuz-org/kopuz) - an open-source music player
 
 ---
 
