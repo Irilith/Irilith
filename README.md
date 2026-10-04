@@ -4,7 +4,6 @@
 *"The Snow Goose need not bathe to make itself white. Neither need you do anything but be yourself."*
 
 [![PGP Key](https://img.shields.io/badge/PGP-0x17238B49FDBFDB14-8b5cf6?style=flat-square&logo=gnuprivacyguard&logoColor=white)](https://github.com/Irilith.gpg)
-[![Profile Views](https://komarev.com/ghpvc/?username=Irilith&style=flat-square&color=8b5cf6&label=views)](https://github.com/Irilith)
 [![Website](https://img.shields.io/badge/blanc--on.top-8b5cf6?style=flat-square&logo=firefox&logoColor=white)](https://blanc-on.top)
 [![mail](https://img.shields.io/badge/-8b5cf6?style=flat-square&logo=gmail&logoColor=white)](mailto:itslirissama@gmail.com)
 [![matrix](https://img.shields.io/badge/-8b5cf6?style=flat-square&logo=matrix)](https://matrix.to/#/@cinders:blanc-on.top)
